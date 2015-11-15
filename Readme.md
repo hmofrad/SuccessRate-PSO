@@ -1,5 +1,5 @@
 # SuccessRate-PSO
-<p align="justify"> Matlab codes for Success Rate Group Search optimiser (SRGSO) <a href="http://www.tandfonline.com/doi/full/10.1080/0952813X.2014.971467"  target="_blank">[1]</a>. </p>
+<p align="justify"> Matlab codes for Success Rate Group Search optimiser (SRGSO) algorithm<a href="http://www.tandfonline.com/doi/full/10.1080/0952813X.2014.971467"  target="_blank">[1]</a>. </p>
 <h2><a href="http://cs.pitt.edu/~hasanzadeh/files/papers/2016-TANDF-SRGSO.pdf" target="_blank">Full Text</a></h2>
 <h2><a id="abstract" class="anchor" href="#abstract" aria-hidden="true"><span class="octicon octicon-link"></span></a>Abstract</h2>
 
